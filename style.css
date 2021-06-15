@@ -73,7 +73,7 @@ body {
 .ag-spotlight-moving_box {
     height: 100vh;
     width: 100vw;
-    background: url(https://raw.githubusercontent.com/SochavaAG/example-mycode/master/pens/animation-spotlight-moving/images/bg.jpg) no-repeat scroll 50% 0 #002841;
+    background: url(bg.jpg) no-repeat scroll 50% 0 #002841;
     background-size: cover;
     image-rendering: -webkit-optimize-contrast;
     image-rendering: crisp-edges;
